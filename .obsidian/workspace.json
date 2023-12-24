@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/Hello World.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/Hello World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/Hello World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/Hello World.md"
               }
             }
           }
@@ -146,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d07fda8acd8f1a17",
+  "active": "552b625155db1ba3",
   "lastOpenFiles": [
+    "README.md",
+    "docs/Hello World.md",
+    "docs",
     "Untitled.md",
     "2023-12-20.md",
     "4913"
