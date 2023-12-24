@@ -1,3 +1,3 @@
 # Jeksidian
 
-Experiment managing a Jekyll blog with Obsidian! v13
+Experiment managing a Jekyll blog with Obsidian! v14
